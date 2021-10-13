@@ -2,7 +2,7 @@
      Task 4 : Subtracting the array elements from 10 and then printing them without restoration
      
      1   2   3                 9   8   7 
-     4   5   6      =>      6   5   4
+     4   5   6      =>         6   5   4
      7   8   9                 3   2   1
 */
 
